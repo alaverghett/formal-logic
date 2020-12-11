@@ -1,4 +1,4 @@
-Implementation of a few algorithms from fomal logic, which I worked on as part of a school project.
+Implementation of a few algorithms from formal logic, which I worked on as part of a school project.
 
 # Algorithms Implemented
 1. Solving propositional calculus expressions using truth tables (PCTruthTables).
